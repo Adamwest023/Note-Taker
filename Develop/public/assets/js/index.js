@@ -22,6 +22,8 @@ const hide = (elem) => {
   elem.style.display = 'none';
 };
 
+//calls the new routes 
+
 // activeNote is used to keep track of the note in the textarea
 let activeNote = {};
 
